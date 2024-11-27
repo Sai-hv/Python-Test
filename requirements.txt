@@ -1,4 +1,11 @@
+requests
+beautifulsoup4
+nltk
+streamlit
 pandas
 networkx
 flask
-nltk
+gensim
+scikit-learn
+numpy
+rake_nltk
