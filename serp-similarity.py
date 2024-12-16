@@ -100,7 +100,7 @@ df_ngram.head(20).style.background_gradient()
 
 from serpapi import GoogleSearch
 
-serp_apikey = "a80a9929e18f27cd6b9bc4a55c70200aa6303f84acbbfbe9cbcaa69733c6a57f" 
+serp_apikey = "" 
 
 params = {
     "engine": "google",
